@@ -1,1 +1,1 @@
-This program will choise a random card
+This program will choice a random card.
